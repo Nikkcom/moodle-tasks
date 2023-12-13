@@ -10,6 +10,11 @@ def run():
                      DoubleLinesStyle())
 
     rec1.display()
+    rec1.rectangle_style = SingleLineStyle()
+    rec1.display()
+
+    inpu = input("")
+
 
 
 def get_user_input(message, numeric_bool=False):
