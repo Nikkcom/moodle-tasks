@@ -16,7 +16,6 @@ def run():
     inpu = input("")
 
 
-
 def get_user_input(message, numeric_bool=False):
     var = 0
 
