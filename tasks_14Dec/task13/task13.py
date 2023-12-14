@@ -1,6 +1,4 @@
 # Task 13: Write a program that opens a file, reads its content, and closes the file.
-
-
 def run():
     file_path = "file.txt"
 
