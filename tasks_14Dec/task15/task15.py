@@ -1,5 +1,4 @@
 # Task 15: Write a program that creates a CSV file and adds a row of data to it.
-
 import csv
 
 
