@@ -1,3 +1,4 @@
+# Task 3: Create a generator function that yields square values of numbers from 1 to 5.
 def run():
     print(generate_square(2))
     print(generate_square(3))
