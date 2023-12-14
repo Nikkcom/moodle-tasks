@@ -1,0 +1,8 @@
+Line
+More text
+Smile
+Hello thereee
+
+...
+
+Text that were added to the file.
